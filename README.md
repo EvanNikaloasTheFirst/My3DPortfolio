@@ -12,7 +12,15 @@ I've recreated my childhood bedroom into my very own 'digital universe' using si
 
 - Three.js (React) ◁
 
+- JavaScript
+
 - GLB Objects 🏎️
+
+- Framer
+
+- Figma
+
+- Blender
 
 - My imagination 💭
 
